@@ -1,0 +1,110 @@
+header {
+    border-bottom: 1px solid white;
+}
+.container {
+    background: linear-gradient(to right, rgb(204, 74, 80),rgb(212, 187, 44));
+    width: 100%;
+    height: 85%; 
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.h1 {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.div2 {
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.container2 {
+    display: flex;
+    align-items: flex-start;
+    padding-top: 50px;
+    width: 85%;
+    margin: 30px auto;
+}
+.text {
+    padding-top: 50px;
+    margin-left: 0.5rem;
+    width: 50%;
+}
+.img {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 50%;
+}
+.img img{
+    width: 100%;
+}
+.in1 {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.in2 {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.active1 {
+    margin-right: 2rem;
+    font-weight: bolder;
+}
+.act {
+    margin-left: 1rem;
+    border-radius: 20px;
+    background-color: white;
+    opacity: 0.85;
+    width: 100px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bolder;
+}
+.what {
+    color: white;
+    font-size: large;
+}
+.main {
+    color: white;
+    font-size: 3rem;
+    margin-bottom: 0rem;
+    margin-top: 0rem;
+}
+.sell {
+    color: white;
+    font-size: 3rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+.sub {
+    color: white;
+    font-size: 1.45rem;
+    margin-bottom: 0rem;
+}
+.short {
+    color: white;
+    font-size: 1.45rem;
+    margin-top: 0rem;
+}
+.subscribe {
+    background-color: white;
+    border-radius: 20px;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    margin-top: 0%;
+    padding-top: 3px;
+    font-weight: bolder;
+}
+.subs {
+margin-top: 0px;
+padding-top: 8px;
+}
